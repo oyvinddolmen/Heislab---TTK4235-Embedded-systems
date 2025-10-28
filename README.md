@@ -3,3 +3,5 @@ C kode som kjører på en miniatyrheis på sanntidssalen. Linux, sanntidsprogram
 Heisen har 4 etasjer og alle funksjonaliteter til en vanlig heis - stoppknapp, åpne dører, lukke dører, etasjepanel utside, etasjepanel innside.
 
 Koden er delt opp i moduler som styrer ulike deler av heisen, feks Kø, Dør, Driver og tilstander.
+
+Se heisrapport-gruppe76 for beskrivelse av moduler og tilstander.
