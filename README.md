@@ -1,2 +1,5 @@
 # Heislab---TTK4235-Embedded-systems
-C kode som kjører på en miniatyrheis på sanntidssalen. Linux, sanntidsprogrammering, C.
+C kode som kjører på en miniatyrheis på sanntidssalen. Linux, sanntidsprogrammering, C, makefile.
+Heisen har 4 etasjer og alle funksjonaliteter til en vanlig heis - stoppknapp, åpne dører, lukke dører, etasjepanel utside, etasjepanel innside.
+
+Koden er delt opp i moduler som styrer ulike deler av heisen, feks Kø, Dør, Driver og tilstander.
